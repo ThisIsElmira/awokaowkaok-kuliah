@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/!!!PKM" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/Crit Think/asg2" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/ENGRISH/group task" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/ENGRISH/hadeh video" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/ENGRISH/rpl nih" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/K3/Tugas" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/P_Daspro/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/P_Daspro/C#/Anu/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/P_Daspro/C#/Anu/obj/Debug/net7.0/ref" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/P_Daspro/C#/Anu/obj/Debug/net7.0/refint" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/P_Daspro/assignment 2" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/kerjaan nara" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 1/prastudaidwjaoilkseja/150 an" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 2/English/Teamwork App" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 2/RPL/VPP" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 3/AI" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 3/Database" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 3/GUI" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/SMT 3/OOP" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/desain logo kelas i" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/ktm bro/edit" />
+      <excludeFolder url="file://$MODULE_DIR$/Unuploaded/lomb" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
