@@ -1,9 +1,7 @@
 # awokaowkaok-kuliah
 <h2>Hewwo! :3</h2>
 <p align="center">
-  
-![arisu](https://media.tenor.com/BjPnBRcCPwcAAAAd/arisu-aris.gif)
-
+  <img src="[https://picsum.photos/460/300](https://media.tenor.com/BjPnBRcCPwcAAAAd/arisu-aris.gif)">
 </p>
 <p>this is a repo of my tasks, some task are broken, but mostly works</p>
 <p>you can see my tasks that i pushed in here, use it as reference only!</p>
